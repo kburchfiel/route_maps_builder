@@ -1,0 +1,7 @@
+Code,Description
+"0","Aircraft Configuration Not Relevant"
+"1","Passenger Configuration"
+"2","Freight Configuration"
+"3","Combined Passenger and Freight on a main deck"
+"4","Seaplane"
+"9","Used for capturing expenses not attributed to specific aircraft types"

@@ -1,0 +1,11 @@
+Code,Description
+"0","Piston, 1-Engine/Combined Single Engine (Piston/Turbine)"
+"1","Piston, 2-Engine"
+"2","Piston, 3-Engine/4-Engine"
+"3","Helicopter/Stol"
+"4","Turbo-Prop, 1-Engine/2-Engine"
+"5","Turbo-Prop, 4-Engine"
+"6","Jet, 2-Engine"
+"7","Jet, 3-Engine"
+"8","Jet, 4-Engine/6-Engine"
+"9","Used for capturing expenses not attributed to specific aircraft types"
