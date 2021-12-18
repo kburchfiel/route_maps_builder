@@ -2,7 +2,7 @@
 
 By Kenneth Burchfiel
 
-This repository shows how to generate airline route maps using publicly available route and airport data, along with the Folium and Selenium Python libraries. 
+This repository shows how to generate airline route maps using publicly available route and airport data, along with the Folium and Selenium Python libraries. (For more information on this project, see my blog post [here](https://kburchfiel3.wordpress.com/2021/12/18/creating-open-source-airline-route-maps-using-python-and-bts-data/).)
 
 The route maps have some limitations: for instance, because the data files on which they are based differentiate between mainline (Delta, American, etc.) and regional (SkyWest, Endeavor, etc.) carriers, these maps often fail to show all route data for a particular airline. In addition, most maps only show routes for which at least 50 departures were recorded in the BTS data file for that year. However, they have the benefit of being entirely open source. (See the methodology used to create the map within route_maps_builder_v2.ipynb for more details on the maps' creation.)
 
