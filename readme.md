@@ -8,8 +8,106 @@ This repository shows how to generate airline route maps using publicly availabl
 
 Here are example screenshots of the route maps currently stored in this repository. (The original route maps are .html files, so for the best viewing experience, I recommend downloading them to your computer and then opening them in a web browser. These screenshots don't display all domestic/North American route data in the original maps.)
 
+By downloading and modifying this program, you can generate far more route maps than these!
+
 **American Airlines Domestic Routes (1999)**
 ![](https://github.com/kburchfiel/route_maps_builder/blob/master/folium_map_screenshots/aa_domestic_routes_1999.png?raw=true)
+
+
+**American Airlines Domestic Routes (2018)**
+![](https://github.com/kburchfiel/route_maps_builder/blob/master/folium_map_screenshots/aa_domestic_routes_2018.png?raw=true)
+
+**American Airlines International Routes (1999)**
+![](https://github.com/kburchfiel/route_maps_builder/blob/master/folium_map_screenshots/aa_international_routes_1999.png?raw=true)
+
+
+**American Airlines International Routes (2018)**
+![](https://github.com/kburchfiel/route_maps_builder/blob/master/folium_map_screenshots/aa_international_routes_2018.png?raw=true)
+
+
+**Alaska Airlines Routes (2018)**
+![](https://github.com/kburchfiel/route_maps_builder/blob/master/folium_map_screenshots/as_all_routes_2018.png?raw=true)
+
+
+**JetBlue Routes (2018)**
+![](https://github.com/kburchfiel/route_maps_builder/blob/master/folium_map_screenshots/b6_all_routes_2018.png?raw=true)
+
+**Continental Airlines Domestic Routes (1999)**
+![](https://github.com/kburchfiel/route_maps_builder/blob/master/folium_map_screenshots/co_domestic_routes_1999.png?raw=true)
+
+**Continental Airlines International Routes (1999)**
+![](https://github.com/kburchfiel/route_maps_builder/blob/master/folium_map_screenshots/co_international_routes_1999.png?raw=true)
+
+
+**Delta Domestic Routes (1999)**
+![](https://github.com/kburchfiel/route_maps_builder/blob/master/folium_map_screenshots/dl_domestic_routes_1999.png?raw=true)
+
+
+**Delta Domestic Routes (2018)**
+![](https://github.com/kburchfiel/route_maps_builder/blob/master/folium_map_screenshots/dl_domestic_routes_2018.png?raw=true)
+
+
+**Delta International Routes (1999)**
+![](https://github.com/kburchfiel/route_maps_builder/blob/master/folium_map_screenshots/dl_international_routes_1999.png?raw=true)
+
+
+**Delta International Routes (2018)**
+![](https://github.com/kburchfiel/route_maps_builder/blob/master/folium_map_screenshots/dl_international_routes_2018.png?raw=true)
+
+**Delta Widebody Routes (2018)**
+![](https://github.com/kburchfiel/route_maps_builder/blob/master/folium_map_screenshots/dl_widebody_routes_2018.png?raw=true)
+
+**Frontier Routes (2018)**
+![](https://github.com/kburchfiel/route_maps_builder/blob/master/folium_map_screenshots/f9_all_routes_2018.png?raw=true)
+
+
+**FedEx Routes (2018)**
+![](https://github.com/kburchfiel/route_maps_builder/blob/master/folium_map_screenshots/fx_all_routes_2018.png?raw=true)
+
+**Allegiant Routes (2018)**
+![](https://github.com/kburchfiel/route_maps_builder/blob/master/folium_map_screenshots/g4_all_routes_2018.png?raw=true)
+
+**Spirit Routes (2018)**
+![](https://github.com/kburchfiel/route_maps_builder/blob/master/folium_map_screenshots/nk_all_routes_2018.png?raw=true)
+
+**Northwest Domestic Routes (1999)**
+![](https://github.com/kburchfiel/route_maps_builder/blob/master/folium_map_screenshots/nw_domestic_routes_1999.png?raw=true)
+
+**Northwest International Routes (1999)**
+![](https://github.com/kburchfiel/route_maps_builder/blob/master/folium_map_screenshots/nw_international_routes_1999.png?raw=true)
+
+
+**SkyWest Routes (2018)**
+![](https://github.com/kburchfiel/route_maps_builder/blob/master/folium_map_screenshots/oo_all_routes_2018.png?raw=true)
+
+
+**TWA Domestic Routes (1999)**
+![](https://github.com/kburchfiel/route_maps_builder/blob/master/folium_map_screenshots/tw_domestic_routes_1999.png?raw=true)
+
+**TWA International Routes (1999)**
+![](https://github.com/kburchfiel/route_maps_builder/blob/master/folium_map_screenshots/tw_international_routes_1999.png?raw=true)
+
+
+**United Domestic Routes (1999)**
+![](https://github.com/kburchfiel/route_maps_builder/blob/master/folium_map_screenshots/ua_domestic_routes_1999.png?raw=true)
+
+
+**United Domestic Routes (2018)**
+![](https://github.com/kburchfiel/route_maps_builder/blob/master/folium_map_screenshots/ua_domestic_routes_2018.png?raw=true)
+
+**United International Routes (1999)**
+![](https://github.com/kburchfiel/route_maps_builder/blob/master/folium_map_screenshots/ua_international_routes_1999.png?raw=true)
+
+
+**United International Routes (2018)**
+![](https://github.com/kburchfiel/route_maps_builder/blob/master/folium_map_screenshots/ua_international_routes_2018.png?raw=true)
+
+**US Airways Domestic Routes (1999)**
+![](https://github.com/kburchfiel/route_maps_builder/blob/master/folium_map_screenshots/us_domestic_routes_1999.png?raw=true)
+
+**US Airways International Routes (1999)**
+![](https://github.com/kburchfiel/route_maps_builder/blob/master/folium_map_screenshots/us_international_routes_1999.png?raw=true)
+
 
 
 
