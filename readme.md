@@ -2,14 +2,13 @@
 
 By Kenneth Burchfiel
 
-![](https://raw.githubusercontent.com/kburchfiel/route_maps_builder/master/folium_maps/dl_domestic_routes_2018_example_image.jpg)
-*(A screenshot of the HTML output of the Delta airlines U.S. route map I created using this program. Note that this map does not reflect Delta's actual route map; see the methodology used to create the map within route_maps_builder_v2.ipynb for more details.)*
+This repository shows how to generate airline route maps using publicly available route and airport data. The route maps have some limitations: for instance, because the data files on which they are based differentiate between mainline (Delta, American, etc.) and regional (SkyWest, Endeavor, etc.) carriers, these maps often fail to show all route data for a particular airline. (See the methodology used to create the map within route_maps_builder_v2.ipynb for more details on the maps' creation.) However, they have the benefit of being entirely open source.
 
-This repository shows how to generate airline route maps using publicly available route and airport data. I plan to add additional documentation at a later date, and to demonstrate how to create maps using Folium.
+## Screenshots
 
-Here are example screenshots of the route maps: (The original route maps are .html files, so for the best viewing experience, I recommend downloading them to your computer and then opening them in a web browser. These screenshots don't show all domestic/North American route data.)
+Here are example screenshots of the route maps currently stored in this repository. (The original route maps are .html files, so for the best viewing experience, I recommend downloading them to your computer and then opening them in a web browser. These screenshots don't display all domestic/North American route data in the original maps.)
 
-
+**American Airlines Domestic Routes (1999)**
 ![](https://github.com/kburchfiel/route_maps_builder/blob/master/folium_map_screenshots/aa_domestic_routes_1999.png?raw=true)
 
 
