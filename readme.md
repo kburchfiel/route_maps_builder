@@ -7,6 +7,13 @@ By Kenneth Burchfiel
 
 This repository shows how to generate airline route maps using publicly available route and airport data. I plan to add additional documentation at a later date, and to demonstrate how to create maps using Folium.
 
+Here are example screenshots of the route maps: (The original route maps are .html files, so for the best viewing experience, I recommend downloading them to your computer and then opening them in a web browser. These screenshots don't show all domestic/North American route data.)
+
+
+![](https://github.com/kburchfiel/route_maps_builder/blob/master/folium_map_screenshots/aa_domestic_routes_1999.png?raw=true)
+
+
+
 **Note**: The following files were not included in the GitHub repository because their size exceeds 100MB:
 1. routes_planes_coordinates.csv
 2. routes_planes_coordinates_for_mapping.csv
