@@ -449,3 +449,14 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1658539859706	geckodriver	INFO	Listening on 127.0.0.1:51426
+1658539862783	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51427" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileqc6apF"
+1658539863365	Marionette	INFO	Marionette enabled
+1658539863371	Marionette	INFO	Listening on port 51434
+WebDriver BiDi listening on ws://localhost:51427
+1658539863946	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileqc6apF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51427/devtools/browser/53471c9f-17e4-4c6c-8e1c-39288431c97b
+1658539955788	Marionette	INFO	Stopped listening on port 51434
+[Parent 17140, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 17140, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
